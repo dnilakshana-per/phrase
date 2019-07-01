@@ -1,0 +1,7 @@
+{
+    "name": "dilina/phrase",
+    "description": "Assignment Phrase Analyser",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
+}
